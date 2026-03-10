@@ -1,63 +1,289 @@
-<!-- HEADER / BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Amit%20Kumar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20AI%20Architect%20|%20SaaS%20Builder&descAlignY=51&descAlign=62" />
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Amit%20Kumar&fontSize=80&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20Architect%20%7C%20SaaS%20Builder&descAlignY=53&descAlign=62&fontColor=ffffff" width="100%"/>
 
 <div align="center">
+
   <a href="https://linkedin.com/in/amitkumar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/iamamitkumardev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/RavenRepo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://amitkumar.digital" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="mailto:amit.quicksoft@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
 </div>
 
 <br/>
 
 <div align="center">
   <blockquote>
-    <p>🚀 <b>Building the future of Enterprise SaaS & Agentic Architecture.</b> Currently deeply focused on Next.js 16 migrations, Remix multi-tenancy pipelines, and autonomous systems powered by artificial intelligence.</p>
+    <p>🧠 <b>I build systems that think, architectures that scale, and products that ship.</b><br/>
+    Specializing in autonomous AI pipelines, enterprise multi-tenant SaaS, and developer tooling — from the terminal to production.</p>
   </blockquote>
 </div>
 
 ---
 
-### 💻 Tech Arsenal & Tooling
+## 🚀 What I'm Building
 
-<div align="center">
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/remix/remix-original.svg" title="Remix" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="Typescript" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" /></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" /></code>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🤖 AI & Autonomous Systems
+Engineering production-grade agentic architectures where multiple AI agents debate, collaborate, and decide — not just generate.
+
+- **8-agent trading intelligence** (CrewAI + Gemini + FastAPI)
+- **Voice-activated JARVIS OS** (Whisper + Ollama + Piper)
+- **OpenClaw Mission Control** — governance layer for multi-agent systems
+- AI Interview Prep with **GPT-4 avatars** (D-ID + ElevenLabs)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Enterprise SaaS Platforms
+Architecting B2B platforms that handle multi-tenancy, whitelabeling, and billing from day one.
+
+- **Super Forge** — whitelabel SaaS boilerplate (Remix + Bun + tRPC)
+- **MVP Holidayz Manager** — travel SaaS with Stripe & multi-tenant data isolation
+- **Inventory Billing Hub** — multi-tenant ERP system
+- **Rexium AI** — AI consulting platform (Next.js 14 + Prisma + SendGrid)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Developer Tools & CLI
+If I build it more than once, I package it.
+
+- **LaunchSuite CLI** (`@launchsuite/create`) — npm scaffolding tool for SaaS boilerplates with license-gated tier selection
+- **Launchsuite Angular** — enterprise Angular MVP starter kits
+- **SprintLabs** — rapid prototyping platform
+- **Hero Sections Kit** — Framer Motion landing page component library
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack Web Apps
+From Remix multi-tenancy to Next.js App Router — shipping at speed without cutting corners.
+
+- **Postiz** — self-hosted social media scheduling (Next.js + NestJS + Temporal)
+- **Social Media Automation** — AI-powered content pipelines
+- **Remix B2B** — production-grade Remix SaaS template
+- **xGrowth / XCreators** — creator monetization platform
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 Featured Projects
+
+<details>
+<summary><b>🧠 Index Mavens — 8-Agent AI Trading Intelligence Platform</b></summary>
 <br/>
 
-### 🌌 Exploring My Development Spheres
+> **"93% of F&O traders lose. Not because they lack intelligence — because they're fighting alone."**
 
-| 🤖 **AI & Autonomous Agents** | 🏢 **B2B & Multi-Tenant SaaS** | 🛠️ **DevOps & Aesthetics** |
-| :--- | :--- | :--- |
-| **Enterprise AI Engine**<br>Self-hosted, multi-agent ecosystem operating full software lifecycles | **Remix B2B Master**<br>Production-ready SaaS with Drizzle, Tailwind, and Enterprise features | **Project JARVIS**<br>Voice-activated AI OS built natively expanding on Fedora |
-| **Mission Control**<br>OpenClaw governance & operations routing platform for teams | **Super Forge / Inventory Hub**<br>Multi-tenant systems with Bun, Prisma, and robust backend capabilities | **Launchsuite CLI**<br>Custom scaffolding engine for rapidly bootstrapping architectures |
-| **Rexium AI**<br>Full-stack AI consulting platform integrating intelligent workflows | **Postiz / Holidayz Manager**<br>Enterprise-level applications tuned with Next.js, Prisma, and React | **Hero Sections Kit**<br>Crafting pristine landing pages with Framer Motion UX logic |
+An autonomous AI trading system for the Indian stock market where 8 specialized agents monitor, debate, and decide together.
 
+| Agent | Role |
+|:------|:-----|
+| 👁️ Market Sentinel | Detects market events, triggers pipelines |
+| 📰 News Research | Multi-source RSS with AI impact scoring |
+| 📊 Technical Analysis | RSI, MACD, Bollinger Bands, multi-timeframe confluence |
+| 📋 Fundamental Analysis | Quality scoring across 45+ Indian stocks |
+| 🎭 Sentiment Analyst | VIX, PCR, FII/DII flow, contrarian signals |
+| 🛡️ Risk Manager | Position sizing, veto power, circuit breakers |
+| 🧠 Psychology Coach | Detects 8 cognitive biases (FOMO, revenge trading, etc.) |
+| 💼 Portfolio Manager | Weighs all agents, synthesizes final recommendation |
+
+**Stack:** Next.js 16 · FastAPI · Google Gemini · CrewAI · PostgreSQL + TimescaleDB + pgvector · Redis · Celery · Angel One SmartAPI
+
+</details>
+
+<details>
+<summary><b>🦾 Project JARVIS — Voice-Activated AI OS (Iron Man Edition)</b></summary>
 <br/>
 
-### 📊 GitHub Matrix
+Transforms Fedora Linux into a Tony Stark-grade AI operating system with voice commands, local LLMs, and a futuristic HUD.
+
+- **Brain:** Ollama (Llama 3 / Mistral) for offline LLM reasoning
+- **Voice I/O:** OpenAI Whisper (STT) + Piper (TTS, optimized for speed)
+- **System Control:** Python automation over all Linux resources
+- **UI:** Rich/Textual terminal + custom GTK/Gnome themes
+
+**Stack:** Python 3.12 · Ollama · Whisper · Piper · Zsh + custom p10k theme
+
+</details>
+
+<details>
+<summary><b>🦅 OpenClaw Mission Control — Agent Governance Platform</b></summary>
+<br/>
+
+The centralized operations surface for running OpenClaw across teams — unified visibility, approval controls, and gateway-aware orchestration.
+
+- Work orchestration: organizations → board groups → boards → tasks → tags
+- **Human-in-the-loop:** Approval flows with full decision trails
+- API-first: same data model for web UI and automation clients
+- Auth modes: local bearer token or Clerk JWT
+
+**Stack:** Next.js · Node.js · PostgreSQL · Docker · Clerk
+
+</details>
+
+<details>
+<summary><b>⚡ Super Forge — Enterprise SaaS Boilerplate</b></summary>
+<br/>
+
+Production-ready, whitelabel-ready AI SaaS template built for developers who want to ship fast without sacrificing quality.
+
+| Layer | Tech |
+|:------|:-----|
+| Runtime | Bun 1.3+ |
+| Framework | Remix v2.17 + Vite 7 |
+| UI | React 19, Tailwind v4, shadcn/ui (60+ components) |
+| API | tRPC v11 (type-safe, no REST) |
+| Database | PostgreSQL 16, Drizzle ORM |
+| Auth | Better-Auth (cookie-based, RBAC) |
+| AI | LiteLLM + LangGraph + pgvector RAG |
+| Billing | Stripe + Lago |
+
+7 runtime theme presets · Schema-per-tenant isolation · CSP headers · Rate limiting · WCAG 2.1 AA accessible
+
+</details>
+
+<details>
+<summary><b>🖥️ LaunchSuite CLI — SaaS Scaffolding Tool</b></summary>
+<br/>
+
+`@launchsuite/create` — an npm CLI tool for bootstrapping SaaS applications from paid boilerplate templates with license validation.
+
+```bash
+npx @launchsuite/create@latest my-app
+```
+
+- 3 tiers: MVP Starter · Multi-Tenant Pro · Enterprise Elite
+- 3 frameworks: Remix · Next.js · Svelte
+- License-gated downloads with AES-256-CBC encrypted credential storage
+- Checksum verification, intelligent caching, git init, env file generation
+
+</details>
+
+<details>
+<summary><b>🤖 AI Interview Preparation Platform</b></summary>
+<br/>
+
+Simulates real-world technical interviews with lifelike AI avatars, voice responses, and intelligent feedback.
+
+- **GPT-4** for dynamic, resume-aware question generation
+- **D-ID** for realistic AI avatar interviewers
+- **ElevenLabs** for natural TTS, **AssemblyAI** for STT + analysis
+- Video recording stored on AWS S3 with comprehensive feedback dashboard
+
+**Stack:** Spring Boot 3.x · React 18 · MySQL · AWS S3 · JWT · JUnit 5
+
+</details>
+
+---
+
+## 💻 Tech Arsenal
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamamitkumardev&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamamitkumardev&theme=onedark&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+
+### Languages & Runtimes
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-fbf0df?style=flat-square&logo=bun&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+
+### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logoColor=black)
+
+### AI & Agents
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <p><b>Fun Fact:</b> Every architectural layer in my workflow is heavily optimized—whether configuring an interactive "Windows XP" inspired UI portfolio, orchestrating transient Python broker session connections, or syncing a React theme in milliseconds. ⚡</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RavenRepo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6366f1&title_color=6366f1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavenRepo&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavenRepo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&langs_count=8" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 🌱 Currently Deep-Diving
+
+```text
+🤖  Agent autonomy & lifecycle management (SSE streaming, heartbeats, structured debates)
+📈  Indian stock market AI — TimescaleDB episodic memory & outcome tracking
+🔬  Next.js 16 + App Router architecture patterns
+⚙️  Turborepo monorepo optimization for large-scale SaaS products
+🔐  Zero-trust multi-tenant data isolation patterns
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to discussing:
+- 🧠 **AI agent architectures** — multi-agent systems, CrewAI, LangGraph
+- 🏢 **Enterprise SaaS problems** — multi-tenancy, billing, white-labeling
+- 🚀 **Developer tooling** — CLI tools, monorepos, scaffolding
+- 💡 **Interesting project ideas** — especially at the intersection of AI and finance
+
+<div align="center">
+  <b>Find me at <a href="https://amitkumar.digital">amitkumar.digital</a> or drop me a line at <a href="mailto:amit.quicksoft@gmail.com">amit.quicksoft@gmail.com</a></b>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
