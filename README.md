@@ -284,6 +284,71 @@ I'm always open to discussing:
 
 <br/>
 
+---
+
+## ❤️ Support & Sponsorship
+
+<div align="center">
+
+Every line of open-source code I write is fueled by passion — and occasionally, coffee.
+<br/>
+If any of my projects have saved you time, inspired your architecture, or just made you think differently, consider showing some love. 🙏
+
+<br/><br/>
+
+<a href="https://github.com/sponsors/RavenRepo" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" height="44"/>
+</a>
+
+<br/><br/>
+
+**What your sponsorship powers:**
+
+| 💡 | What it funds |
+|:--:|:---|
+| 🤖 | AI API credits for Index Mavens & autonomous agent research |
+| 🛠️ | Open-source developer tooling (LaunchSuite CLI, Hero Sections Kit) |
+| 📚 | Public documentation, guides, and architecture breakdowns |
+| ⚡ | Self-hosted infrastructure to keep everything running 24/7 |
+
+</div>
+
+<br/>
+
+## 🤲 Contributing
+
+<div align="center">
+
+Open source only gets better with open hands.
+<br/>
+Whether it's a typo fix, a feature suggestion, or a full pull request — **all contributions are welcome and celebrated**.
+
+</div>
+
+<br/>
+
+If you'd like to contribute to any of my projects:
+
+1. **🍴 Fork** the repo you want to improve
+2. **🌿 Branch** off `main` — `git checkout -b feat/your-idea`
+3. **✍️ Follow** the project's code style and conventions (check `WORKFLOW.md` or `CONTRIBUTING.md` if present)
+4. **🧪 Test** your changes before submitting
+5. **📬 Open a PR** — include a clear description of *what* and *why*
+
+> **Not sure where to start?** Look for issues tagged `good first issue` or `help wanted`. Or just [open a discussion](https://github.com/RavenRepo) and let's talk through your idea first.
+
+<div align="center">
+
+<br/>
+
+_"The best architectures are built collaboratively._ 🏗️ _"_
+
+<br/>
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
