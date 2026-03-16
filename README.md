@@ -279,7 +279,7 @@ I'm always open to discussing:
 - 💡 **Interesting project ideas** — especially at the intersection of AI and finance
 
 <div align="center">
-  <b>Find me at <a href="https://amitkumar.digital">amitkumar.digital</a> or drop me a line at <a href="mailto:amit.quicksoft@gmail.com">amit.quicksoft@gmail.com</a></b>
+  <b>Find me at <a href="https://iamamitkumar.dev">iamamitkumardev</a> or drop me a line at <a href="mailto:amit.quicksoft@gmail.com">amit.quicksoft@gmail.com</a></b>
 </div>
 
 <br/>
