@@ -9,7 +9,7 @@
   <a href="https://github.com/RavenRepo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://amitkumar.digital" target="_blank">
+  <a href="https://iamamitkumar.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:amit.quicksoft@gmail.com">
