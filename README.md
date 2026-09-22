@@ -254,14 +254,6 @@ Simulates real-world technical interviews with lifelike AI avatars, voice respon
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavenRepo&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" width="60%" />
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
