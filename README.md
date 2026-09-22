@@ -12,10 +12,19 @@
   <a href="https://iamamitkumar.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:amit.quicksoft@gmail.com">
+  <a href="mailto:hello@iamamitkumar.dev">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=RavenRepo&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
 
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/RavenRepo">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=6366F1&center=true&vCenter=true&width=720&lines=I+build+systems+that+think%2C+architectures+that+scale...;8-agent+AI+trading+intelligence+%E2%80%94+Index+Mavens;Enterprise+multi-tenant+SaaS+%E2%80%94+from+terminal+to+production;Voice-activated+AI+OS+%E2%80%94+Project+JARVIS;Open+to+interesting+problems+at+the+intersection+of+AI+%2B+finance" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -256,6 +265,28 @@ Simulates real-world technical interviews with lifelike AI avatars, voice respon
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavenRepo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&langs_count=8" alt="Top Languages" width="48%" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavenRepo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=6366f1&point=ffffff&area=true&area_color=6366f1" alt="Contribution Activity Graph" width="97%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RavenRepo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RavenRepo/RavenRepo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RavenRepo/RavenRepo/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/RavenRepo/RavenRepo/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+  <br/>
+  <sub>Regenerates every 12h via <a href="https://github.com/RavenRepo/RavenRepo/actions/workflows/snake.yml">GitHub Actions</a></sub>
+</div>
+
 ---
 
 ## 🌱 Currently Deep-Diving
@@ -279,7 +310,7 @@ I'm always open to discussing:
 - 💡 **Interesting project ideas** — especially at the intersection of AI and finance
 
 <div align="center">
-  <b>Find me at <a href="https://iamamitkumar.dev">iamamitkumardev</a> or drop me a line at <a href="mailto:amit.quicksoft@gmail.com">amit.quicksoft@gmail.com</a></b>
+  <b>Find me at <a href="https://iamamitkumar.dev">iamamitkumar.dev</a> or drop me a line at <a href="mailto:hello@iamamitkumar.dev">hello@iamamitkumar.dev</a></b>
 </div>
 
 <br/>
